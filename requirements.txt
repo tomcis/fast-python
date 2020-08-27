@@ -3,3 +3,4 @@ pandas>=1.1.0
 numba>=0.50.1
 seaborn>=0.10.1
 swifter>=1.0.3
+perfplot
