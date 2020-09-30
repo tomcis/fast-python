@@ -3,5 +3,5 @@ pandas>=1.1.0
 numba>=0.50.1
 seaborn>=0.10.1
 swifter>=1.0.3
-perfplot
-ipython_memory_usage
+perfplot>=0.8.4
+ipython_memory_usage>=1.2
